@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\proj_nlp\\ai_bot\\model.tflearn"
+all_model_checkpoint_paths: "E:\\proj_nlp\\ai_bot\\model.tflearn"
